@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header, main, footer {
+    padding: 20px;
+}
+
+#header-img {
+    width: 100%;
+    height: auto;
+}
+
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+}
+
+article img {
+    width: 100%;
+    height: auto;
+    max-width: 300px; /* Ensures the image doesn't get too large */
+    display: block;
+    margin: 0 auto; /* Centers the image */
+}
+
+section {
+    margin: 20px 0;
+}
+
+article {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+article img {
+    width: 100%;
+    height: auto;
+}
+
+article p {
+    font-style: italic;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+form label {
+    margin-top: 10px;
+}
+
+fieldset {
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+header, main, footer {
+    padding: 20px;
+}
+
+#header-img {
+    width: 100%;
+    height: auto;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+}
+
+section {
+    margin: 20px 0;
+}
+
+article {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+
+article p {
+    font-style: italic;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+form label {
+    margin-top: 10px;
+}
+
+fieldset {
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
