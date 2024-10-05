@@ -28,3 +28,6 @@ The HTML file should be properly structured (Hint: start with `<!DOCTYPE html>`)
 Note: Make sure to include a `<label>` element for each <input> element.
 - A footer that includes a `<p>` paragraph element that reads "Made with love by " followed by your Codédex username.
 
+# [Certificate](https://www.codedex.io/certificates/dbd1c557-c898-4c34-a339-300c71097304)
+
+![image](https://images.credential.net/embed/rzlwfbkn.png)
